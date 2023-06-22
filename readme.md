@@ -1,41 +1,54 @@
-# Snake Game
+## Snake Game
 
-This is a simple Snake game implemented in Python using the Pygame library. The objective of the game is to control the snake and eat the food to score points. The game ends if the snake hits the boundaries or collides with itself.
+This project is a simple implementation of the classic Snake game using Python and the Pygame library.
+
+### Features
+
+- Play the Snake game on your computer.
+- Control the snake's movement using arrow keys.
+- Eat food to grow longer and increase your score.
+- Avoid colliding with the boundaries of the game window or the snake's own body.
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/alawi030/SnakeGame.git
-   ```
-
-2. Change to the project directory:
-
-   ```bash
-   cd snake-game
-   ```
-
-3. Install the required dependencies. Make sure you have Python and pip installed, then run:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-To start the game, run the following command:
+Start by cloning this repo:
 
 ```bash
-python snake_game.py
+git clone https://github.com/alawi030/SnakeGame.git
 ```
 
-Use the arrow keys (up, down, left, right) to control the snake's direction. The objective is to eat the food (red block) to score points. The game ends if the snake hits the boundaries or collides with itself.
+Change to the directory of the project:
+
+```bash
+cd SnakeGame
+```
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage/Examples
+
+Start by running the main file:
+
+```bash
+python main.py
+```
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](licence.txt) file for more information.
+This project is licensed under the [MIT License](Licence.txt).
 
-## Acknowledgments
+## Acknowledgements
 
-The implementation of this Snake game is based on a tutorial by [Clear Code](https://www.youtube.com/c/ClearCode).
+The Snake Game application was developed using Python and the Pygame library.
+
+## Contact
+
+For any inquiries or questions, please contact [Ali Almaliki](mailto:alawilmaliki@gmail.com).
