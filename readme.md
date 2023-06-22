@@ -19,7 +19,7 @@ This is a simple Snake game implemented in Python using the Pygame library. The 
 3. Install the required dependencies. Make sure you have Python and pip installed, then run:
 
    ```bash
-   pip install pygame
+   pip install -r requirements.txt
    ```
 
 ## Usage
