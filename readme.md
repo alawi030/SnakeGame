@@ -7,7 +7,7 @@ This is a simple Snake game implemented in Python using the Pygame library. The 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/alawi030/SnakeGame.git
    ```
 
 2. Change to the project directory:
